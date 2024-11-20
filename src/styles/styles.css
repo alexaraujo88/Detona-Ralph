@@ -1,6 +1,6 @@
 @import url(./reset.css);
 
-.conteiner {
+.container {
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  height: 90px;
+  height: 9opx;
   width: 100%;
   background-color: #000000;
   color: #ffffff;
@@ -35,10 +35,10 @@
   justify-content: center;
 }
 
-.squere {
+.square {
   height: 150px;
   width: 150px;
-  border: 0.1rem solid #000000;
+  border: 1px solid #000000;
   background-color: #1ce6a2;
 }
 
